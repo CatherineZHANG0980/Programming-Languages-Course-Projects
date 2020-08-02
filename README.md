@@ -58,6 +58,9 @@
          
   [Specification](Spec2.pdf)
 
+* * * 
+
+
 ## [Project 3](project3)
 * Implement a board game called "Golden Hook Fishing" in __Perl__
 * Implement a simplified Monopoly game in Perl with __dynamic scoping__. 
@@ -82,6 +85,9 @@
     * class Land (new, print, buyLand, upgradeLand, chargeToll, stepOn)   
          
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Specification](Spec3.pdf)
+
+* * * 
+
 
 ## [Project 4](project4)
 * Gain experience of declarative programming with __Prolog (Logic Programming)__ and __ML (Functional Programming)__ . Declarative programming is a programming paradigm that emphasises the expression of “what” the problem is over “how” to solve the problem.
